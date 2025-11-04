@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pokeball" size="300.000000 300.000000" />
+    <ImageTarget name="mariostar" size="300.000000 300.000000" />
+    <ImageTarget name="zeldarupie" size="300.000000 306.938782" />
+    <ImageTarget name="slime" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>

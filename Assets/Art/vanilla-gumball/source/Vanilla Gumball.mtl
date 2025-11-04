@@ -1,0 +1,24 @@
+# Blender3D MTL File: Vanilla Gumball.blend
+# Material Count: 2
+newmtl RefRep_Wand.png_Wand.png
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.125000 0.125000 0.125000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wand.png
+
+
+newmtl RefRep.75_Body.png_Body.png
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Body.png
+
+
